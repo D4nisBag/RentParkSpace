@@ -82,20 +82,6 @@ echo "[TODO] Describe how to execute Unit Tests"
 
 * `latest`
 
--->
-
-## :bust_in_silhouette: Authors
-
-**Command B**
-* [Aminov Emil](https://github.com/AminovE99)
-* [Aleksandrov Andrey](https://github.com/mitanil)
-* [Alekseev Vladislav](https://github.com/Vlad116)
-
-## :handshake: Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Monogramm/__app_slug__/issues).
-[Check the contributing guide](./CONTRIBUTING.md).<br />
-
 ## :thumbsup: Show your support
 
 Give a :star: if this project helped you!
